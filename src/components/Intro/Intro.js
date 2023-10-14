@@ -1,6 +1,6 @@
 import React from 'react'
 import './intro.css';
-import image from '../../assets/shivanshu.jpg' 
+import image from '../../assets/logo.png' 
 import btnImg from '../../assets/hireme.png' 
 import {Link} from 'react-scroll';
 
